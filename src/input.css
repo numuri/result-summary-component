@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+    @apply w-[375px]
+}
+
+.md {
+    @apply w-[1440px]
+}
